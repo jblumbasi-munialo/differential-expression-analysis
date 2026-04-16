@@ -1,0 +1,30 @@
+
+GITHUB UPLOAD INSTRUCTIONS
+===========================================
+
+Repository: https://github.com/jblumbasi-munialo/differential-expression-analysis
+
+FILES TO UPLOAD:
+----------------
+1. blockchain/deg_blockchain_ledger.csv  (NEW FOLDER)
+2. results/regulation_predictions.csv    (NEW FOLDER)
+3. results/ml_feature_importance.csv     (NEW FOLDER)
+4. figures/blockchain_ml_analysis.png    (NEW FILE)
+5. README.md                              (REPLACE - enhanced version)
+6. analyze_results.py                     (NEW FILE - optional)
+7. requirements.txt                       (UPDATE if needed)
+
+STEPS:
+------
+1. Go to: https://github.com/jblumbasi-munialo/differential-expression-analysis
+2. Click "Add file" → "Upload files"
+3. Drag and drop the entire 'blockchain' folder
+4. Drag and drop the entire 'results' folder
+5. Drag and drop 'figures/blockchain_ml_analysis.png'
+6. Drag and drop the new README.md (replace existing)
+7. Drag and drop analyze_results.py
+8. Add commit message: "Add blockchain integration and machine learning for up/down classification"
+9. Click "Commit changes"
+
+NOTE: The existing files (differential_expression_results.csv, volcano_plot.png, etc.)
+      will remain unchanged. You are only ADDING new files and REPLACING README.md.
